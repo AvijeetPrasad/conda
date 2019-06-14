@@ -30,5 +30,3 @@ packages that should be removed are:
 * libcxx=4.0.1
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AvijeetPrasad/conda/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/AvijeetPrasad/conda/master
